@@ -1,1 +1,5 @@
-²âÊÔ°¸Àı²»ÓÃÈÏÕæ
+//ï¿½ï¿½ï¿½Ô°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+public class HelloWorld {
+  public static void main(String args[]){
+    System.Out.Println("Hello World");
+}
